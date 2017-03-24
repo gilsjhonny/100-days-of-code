@@ -16,3 +16,43 @@
 
 **Link(s) to work:** 1. [Event Invitation](http://codepen.io/gilsjhonny/full/evyewX/)
 2. [Calculator Pen](http://codepen.io/gilsjhonny/full/EWvONx/)
+
+### Day 3: March 19, 2017
+
+**Today's Progress**: More practice with Flexbox and possible ways to animate it with a little help of JS, also keeping it responsive. The result was a Tourist Attraction site for D3 of 30Days30Sites.
+
+**Thoughts:**
+
+**Link(s) to work:** [Tourist Attraction Site](http://codepen.io/gilsjhonny/full/BWJqeN/)
+
+### Day 4: March 20, 2017
+
+**Today's Progress**: Made a flipping product card for D4 of 30Days30Sites.
+
+**Thoughts:**
+
+**Link(s) to work:** 1. [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
+
+### Day 5: March 21, 2017
+
+**Today's Progress**: Fixed some responsive details in the flipping product card.
+
+**Thoughts:**
+
+**Link(s) to work:** 1. [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
+
+### Day 6: March 22, 2017
+
+**Today's Progress**: Polishing my skills with SASS drawing a pure CSS Arcade Cabinet. Feeling proud of this one.
+
+**Thoughts:** I just realized that as a front-end dev if I want to step up my skills I should spend more time coding than designing so replicating or getting inspiration from Dribble shots is a great idea. (Credits given to designers)
+
+**Link(s) to work:** 1. [Pure CSS Arcade Cabinet](http://codepen.io/gilsjhonny/full/xqjKzg/)
+
+### Day 7: March 23, 2017
+
+**Today's Progress**: More SASS & HTML, I made a book site for 30Days30Sites Day 6 using my Arcade Cabinet CSS image.
+
+**Thoughts:** Some css images are definitely not meant to be responsive, specially when you work with borders and percentages.
+
+**Link(s) to work:** 1. [Ready Player One Site](http://codepen.io/gilsjhonny/full/PpeMyW/)
