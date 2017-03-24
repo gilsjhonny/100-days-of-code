@@ -31,7 +31,7 @@
 
 **Thoughts:**
 
-**Link(s) to work:** 1. [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
+**Link(s) to work:** [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
 
 ### Day 5: March 21, 2017
 
@@ -39,7 +39,7 @@
 
 **Thoughts:**
 
-**Link(s) to work:** 1. [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
+**Link(s) to work:** [Flipping Product Card](http://codepen.io/gilsjhonny/full/wJyNrZ/)
 
 ### Day 6: March 22, 2017
 
@@ -47,7 +47,7 @@
 
 **Thoughts:** I just realized that as a front-end dev if I want to step up my skills I should spend more time coding than designing so replicating or getting inspiration from Dribble shots is a great idea. (Credits given to designers)
 
-**Link(s) to work:** 1. [Pure CSS Arcade Cabinet](http://codepen.io/gilsjhonny/full/xqjKzg/)
+**Link(s) to work:** [Pure CSS Arcade Cabinet](http://codepen.io/gilsjhonny/full/xqjKzg/)
 
 ### Day 7: March 23, 2017
 
@@ -55,4 +55,4 @@
 
 **Thoughts:** Some css images are definitely not meant to be responsive, specially when you work with borders and percentages.
 
-**Link(s) to work:** 1. [Ready Player One Site](http://codepen.io/gilsjhonny/full/PpeMyW/)
+**Link(s) to work:** [Ready Player One Site](http://codepen.io/gilsjhonny/full/PpeMyW/)
