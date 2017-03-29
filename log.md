@@ -56,3 +56,43 @@
 **Thoughts:** Some css images are definitely not meant to be responsive, specially when you work with borders and percentages.
 
 **Link(s) to work:** [Ready Player One Site](http://codepen.io/gilsjhonny/full/PpeMyW/)
+
+### Day 8: March 24, 2017
+
+**Today's Progress**: Learning more about ReactJS and coding for a personal project.
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+### Day 9: March 25, 2017
+
+**Today's Progress**: Learning more about ReactJS and coding for a personal project.
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+### Day 10: March 26, 2017
+
+**Today's Progress**: Learning more about ReactJS and coding for a personal project.
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+### Day 11: March 27, 2017
+
+**Thoughts:**
+
+**Today's Progress**: Started building my portfolio using html and sass.
+
+**Link(s) to work:**
+
+### Day 12: March 28, 2017
+
+**Thoughts:**
+
+**Today's Progress**: Finished building my portfolio.
+
+**Link(s) to work:** [Personal Portfolio](http://codepen.io/gilsjhonny/full/ryqdLR/)
