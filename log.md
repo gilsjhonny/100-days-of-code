@@ -83,16 +83,32 @@
 
 ### Day 11: March 27, 2017
 
-**Thoughts:**
-
 **Today's Progress**: Started building my portfolio using html and sass.
+
+**Thoughts:**
 
 **Link(s) to work:**
 
 ### Day 12: March 28, 2017
 
-**Thoughts:**
-
 **Today's Progress**: Finished building my portfolio.
 
+**Thoughts:**
+
 **Link(s) to work:** [Personal Portfolio](http://codepen.io/gilsjhonny/full/ryqdLR/)
+
+### Day 13: March 29, 2017
+
+**Today's Progress**: Added Scrollspy to my portfolio and fixed some details.
+
+**Thoughts:**
+
+**Link(s) to work:** [Personal Portfolio](http://codepen.io/gilsjhonny/full/ryqdLR/)
+
+### Day 14: March 30, 2017
+
+**Today's Progress**: Made a random quote machine using an SVG, vanilla JS and TextPlugin from GSAP.
+
+**Thoughts:**
+
+**Link(s) to work:** [Personal Portfolio](http://codepen.io/gilsjhonny/full/evbOMG/)
